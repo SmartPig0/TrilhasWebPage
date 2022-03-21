@@ -200,4 +200,12 @@ input[type="submit"]{
     border-top: solid 2px #429ebd;
     margin-top: 20px;
 }
+
+   
+.btn-info {
+    background: #429ebd;
+    border: none;
+    width: 100px;
+    color:#fff;
+}
 /*Fim do css do footer*/
